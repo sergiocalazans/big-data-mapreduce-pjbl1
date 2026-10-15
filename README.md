@@ -118,8 +118,6 @@ Fluxo geral de execução:
 4. Executar o Job correspondente a cada análise, informando os diretórios de entrada e saída.
 5. Conferir os arquivos `part-r-*` gerados e comparar os resultados com os requisitos.
 
-> **A completar com o código do repositório:** comandos exatos de compilação, nomes das classes principais, argumentos de execução e caminhos de entrada/saída. Não foram incluídos comandos fictícios para evitar instruções incorretas.
-
 ## ✅ Cuidados com os dados
 
 Conforme os critérios do PjBL 1:
